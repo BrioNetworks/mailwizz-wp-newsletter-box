@@ -1,4 +1,4 @@
-mailwizz-wp-newsletter-box
+BulkMailUAE Wordpress Plugin
 ==========================
 
 Newsletter box plugin for wordpress
